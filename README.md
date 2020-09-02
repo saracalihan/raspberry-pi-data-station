@@ -38,6 +38,16 @@ Tüm kod buradaki donanımlara göre yazılmıştır.Kodda küçük değiştirme
 ## İstasyon tarafından üretilen veriler hangi veri tipinde olabilir?
 İstasyonun anlamlı veya rastgele olarak tüm veri tiplerinde örnekler üretebilir.Bunlar **integer**, **float**, **date**, **boolean**, **char**, **string**, **array** veya özel olarak belirtilebilecek bir **class** olabilir.
  
+ ## Nasıl yüklenir?
+ İndirmek için:
+ ``` 
+ git clone asd
+ ```
+ Kodu Çalıştırmak için:
+ ```
+ cd raspberry-pi-data-station
+ python3 main.py
+ ```
 
 ## Yazılım ile ilgili detaylar
 Kodlama dili olarak Python kullanılmıştır.İlerleyen süreçte C/C++ dili ile de aynı kod yazılacaktır.Opsiyon olarak belirtilen koşullar koda sonradan eklenecektir.
@@ -50,4 +60,5 @@ Kodlama dili olarak Python kullanılmıştır.İlerleyen süreçte C/C++ dili il
 + ### [Adafruit_Python_DHT kütüphanesi](https://github.com/adafruit/Adafruit_Python_DHT)
    ### ...
  
- 
+## Donanım Bağlantıları
+![baglanti.png]( "Bağlantı fritzing dosyaları ve resimleri")
