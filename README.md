@@ -4,7 +4,7 @@ MaviDurak-IO bünyesinde bulunan mentorlük programı için geliştirilmiş bulu
 ---
 
 ## Ne tür verileri kullanır?
-Bu istasyon Raspberry Pi ile kullanılabilen tüm sensörlerle çalışabilir.Ayrıca sensöre ihtiyaç duymadan sanal olarak üretilen rastgele veya düzenli olarak veriler üretebilir.İstasyonda kullanılması planlanan veriler şu türdedir:
+Bu istasyon Raspberry Pi ile kullanılabilen tüm sensörlerle çalışabilir.Ayrıca sensöre ihtiyaç duymadan sanal olarak üretilen rastgele veya anlamlı olarak veriler üretebilir.İstasyonda kullanılması planlanan veriler şu türdedir:
 + ### Sıcaklık
 + ### Nem oranı
 + ### Işık yoğunluğu
@@ -23,7 +23,7 @@ Bu istasyon Raspberry Pi ile kullanılabilen tüm sensörlerle çalışabilir.Ay
 ---
 
 ## Bu verileri kullanabilmek için hangi sensörler kullanmalıyım?
-Tüm kod buradaki donanımlara göre yazılmıştır.Kodda küçük değiştirmeler yaparak kendi donanımlarınız da ekleyebilir veya mevsut donanımları muadilleri ile değiştirebilirsiniz.
+Tüm kod buradaki donanımlara göre yazılmıştır.Kodda küçük değiştirmeler yaparak kendi donanımlarınız da ekleyebilir veya mevcut donanımları muadilleri ile değiştirebilirsiniz.
 + ### DHT11 (Sıcaklık ve Nem)
 + ### 5 mm LDR(Işık Yoğunluğu)
 + ### Push Buton(Buton(lar)a basılma durumu)
