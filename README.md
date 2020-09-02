@@ -3,7 +3,7 @@
 
 
 ## Ne tür verileri kullanır?
-Bu istasyon Raspberry Pi ile kullanılabilen tüm sensörlerle çalışabilir.Ayrıca sensöre ihtiyaç duymadan sanal olarak üretilen rastgele veya anlamlı olarak veriler üretebilir.İstasyonda kullanılması planlanan veriler şu türdedir:
+Bu istasyon Raspberry Pi ile kullanılabilen tüm sensörlerle çalışabilir.Ayrıca sensöre ihtiyaç duymadan sanal olarak rastgele veya anlamlı olarak veriler üretebilir.İstasyonda kullanılması planlanan veriler şu türdedir:
 + ### Sıcaklık
 + ### Nem oranı
 + ### Işık şiddeti
@@ -36,7 +36,7 @@ Tüm kod buradaki donanımlara göre yazılmıştır.Kodda küçük değiştirme
 
 
 ## İstasyon tarafından üretilen veriler hangi veri tipinde olabilir?
-İstasyonun anlamlı veya rastgele olarak tüm veri tiplerinde örnekler üretebilir.Bunlar **intager**, **float**, **date**, **boolean**, **char**, **string**, **array** veya özel olarak belirtilebilecek bir **class** olabilir.
+İstasyonun anlamlı veya rastgele olarak tüm veri tiplerinde örnekler üretebilir.Bunlar **integer**, **float**, **date**, **boolean**, **char**, **string**, **array** veya özel olarak belirtilebilecek bir **class** olabilir.
  
 
 ## Yazılım ile ilgili detaylar
@@ -48,6 +48,6 @@ Kodlama dili olarak Python kullanılmıştır.İlerleyen süreçte C/C++ dili il
 + ### [pip](https://www.python.org/)
 + ### [Python Requests](https://requests.readthedocs.io/en/master/)
 + ### [Adafruit_Python_DHT kütüphanesi](https://github.com/adafruit/Adafruit_Python_DHT)
- ...
+ **...**
  
  
