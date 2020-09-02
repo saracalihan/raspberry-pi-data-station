@@ -51,7 +51,7 @@ Tüm kod buradaki donanımlara göre yazılmıştır.Kodda küçük değiştirme
  ## Nasıl yüklenir?
  İndirmek için:
  ``` 
- git clone asd
+ git clone https://github.com/saracalihan/raspberry-pi-data-station.git
  ```
  Kodu Çalıştırmak için:
  ```
