@@ -1,6 +1,17 @@
 # MaviDurak-IO/Mentorlük Veri İstasyonu
 [MaviDurak-IO](https://kommunity.com/mavidurakio) bünyesinde bulunan mentorlük programı için geliştirilmiş bulunduğu ortamdan veri toplayan, işleyen ve [API](https://github.com/mavidurak/mentor-api)'a HTTP istekleri gönderen bir istasyondur.Yapılan işlemler için gereken verileri, işlenen verilerin çıktılarını ve API'dan gelen geri dönütleri kendi içerisine kaydedebilir ve tekrardan okuyarak farklı işlemler yapabilir yahut uyarı verebilir.
 
+## İçindekiler
+- [Veriler]()
+  - [Ne tür verileri kullanır?](#ne-tür-verileri-kullanır)
+  - [Bu verileri kullanabilmek için hangi sensörler kullanmalıyım?](#bu-verileri-kullanabilmek-için-hangi-sensörler-kullanmalıyım)
+  - [İstasyon tarafından üretilen veriler hangi veri tipinde olabilir?](#i̇stasyon-tarafından-üretilen-veriler-hangi-veri-tipinde-olabilir)
+- [İndirme]()
+  - [Nasıl yüklenir?](#nasıl-yüklenir)
+  - [Bağımlılıklar](#bağımlılıklar)
+  - [Yazılım ile ilgili detaylar](#yazılım-ile-ilgili-detaylar)
+- [Donanım Bağlantıları](#donanım-bağlantıları)
+
 ## Ne tür verileri kullanır?
 Bu istasyon Raspberry Pi ile kullanılabilen tüm sensörlerle çalışabilir.Ayrıca sensöre ihtiyaç duymadan sanal olarak rastgele veya anlamlı olarak veriler üretebilir.İstasyonda kullanılması planlanan veriler şu türdedir:
 + **Sıcaklık**
@@ -53,6 +64,7 @@ Kodlama dili olarak Python kullanılmıştır.İlerleyen süreçte C/C++ dili il
 
 
 ## Bağımlılıklar
+Kodun çalışabilmesi için önceden yüklü olması yerekenler.
 + **[Python](https://www.python.org/)**
 + **[pip](https://www.python.org/)**
 + **[Python Requests](https://requests.readthedocs.io/en/master/)**
