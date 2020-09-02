@@ -43,11 +43,11 @@ Tüm kod buradaki donanımlara göre yazılmıştır.Kodda küçük değiştirme
 Kodlama dili olarak Python kullanılmıştır.İlerleyen süreçte C/C++ dili ile de aynı kod yazılacaktır.Opsiyon olarak belirtilen koşullar koda sonradan eklenecektir.
 
 
-## Bağlılıklar
+## Bağımlılıklar
 + ### [Python](https://www.python.org/)
 + ### [pip](https://www.python.org/)
 + ### [Python Requests](https://requests.readthedocs.io/en/master/)
 + ### [Adafruit_Python_DHT kütüphanesi](https://github.com/adafruit/Adafruit_Python_DHT)
- **...**
+   ### ...
  
  
