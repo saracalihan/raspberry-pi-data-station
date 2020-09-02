@@ -1,5 +1,5 @@
 # MaviDurak-IO/Mentorlük Veri İstasyonu
-[MaviDurak-IO](https://kommunity.com/mavidurakio) bünyesinde bulunan mentorlük programı için geliştirilmiş bulunduğu ortamdan veri toplayan, işleyen ve [API](https://github.com/mavidurak/mentor-api)'a HTTP istekleri gönderen bir istasyondur.Yapılan işlemler için gereken verileri, işlenen verilerin çıktılarını ve API'dan gelen geri dönütleri kendi içerisine kaydedebilir ve tekrardan okuyarak farklı işlemler yapabilir yahut uyarı verebilir.
+[MaviDurak-IO](https://kommunity.com/mavidurakio) bünyesinde bulunan mentorlük programı için geliştirilmiş, bulunduğu ortamdan veri toplayan, işleyen ve [API](https://github.com/mavidurak/mentor-api)'a HTTP istekleri gönderen bir istasyondur.Yapılan işlemler için gereken verileri, işlenen verilerin çıktılarını ve API'dan gelen geri dönütleri kendi içerisine kaydedebilir ve tekrardan okuyarak farklı işlemler yapabilir yahut uyarı verebilir.
 
 ## İçindekiler
 - [Veriler](#ne-tür-verileri-kullanır)
