@@ -66,7 +66,7 @@ Kodlama dili olarak Python kullanılmıştır.İlerleyen süreçte C/C++ dili il
 
 
 ## Bağımlılıklar
-Kodun çalışabilmesi için önceden yüklü olması yerekenler.
+Kodun çalışabilmesi için önceden yüklü olması gerekenler.
 + **[Python](https://www.python.org/)**
 + **[pip](https://www.python.org/)**
 + **[Python Requests](https://requests.readthedocs.io/en/master/)**
