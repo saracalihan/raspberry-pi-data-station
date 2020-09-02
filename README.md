@@ -12,8 +12,8 @@
   - [Yazılım ile ilgili detaylar](#yazılım-ile-ilgili-detaylar)
 - [Donanım Bağlantıları](#donanım-bağlantıları)
 
-## Ne tür verileri kullanır?
-Bu istasyon Raspberry Pi ile kullanılabilen tüm sensörlerle çalışabilir.Ayrıca sensöre ihtiyaç duymadan sanal olarak rastgele veya anlamlı olarak veriler üretebilir.İstasyonda kullanılması planlanan veriler şu türdedir:
+## Ne tür verileri elde edebilirim?
+Bu istasyon Raspberry Pi ile kullanılabilen tüm sensörlerle çalışabilir.Ayrıca sensöre ihtiyaç duymadan sanal olarak rastgele veya anlamlı olarak veriler üretebilir.İstasyonda alınabilmesi planlanan veriler şu türdedir:
 + **Sıcaklık**
 + **Nem oranı**
 + **Işık şiddeti**
@@ -30,7 +30,7 @@ Bu istasyon Raspberry Pi ile kullanılabilen tüm sensörlerle çalışabilir.Ay
 + **(Dahili/Opsiyon) Etraftaki Bluetooth veya Wifi bağlantı noktası sayısı**
 
 
-## Bu verileri kullanabilmek için hangi sensörler kullanmalıyım?
+## Bu verileri kullanabilmek için hangi sensörleri kullanmalıyım?
 Tüm kod buradaki donanımlara göre yazılmıştır.Kodda küçük değiştirmeler yaparak kendi donanımlarınız da ekleyebilir veya mevcut donanımları muadilleri ile değiştirebilirsiniz.
 
   **Raspberry Pi 4B**(Raspberry Pi Zero W ve üstü versiyonlar veya Raspberry Pi Zero + ethernet modülü) **+**
