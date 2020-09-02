@@ -2,11 +2,11 @@
 [MaviDurak-IO](https://kommunity.com/mavidurakio) bünyesinde bulunan mentorlük programı için geliştirilmiş bulunduğu ortamdan veri toplayan, işleyen ve [API](https://github.com/mavidurak/mentor-api)'a HTTP istekleri gönderen bir istasyondur.Yapılan işlemler için gereken verileri, işlenen verilerin çıktılarını ve API'dan gelen geri dönütleri kendi içerisine kaydedebilir ve tekrardan okuyarak farklı işlemler yapabilir yahut uyarı verebilir.
 
 ## İçindekiler
-- [Veriler](#i̇çindekiler)
+- [Veriler](#ne-tür-verileri-kullanır)
   - [Ne tür verileri kullanır?](#ne-tür-verileri-kullanır)
   - [Bu verileri kullanabilmek için hangi sensörler kullanmalıyım?](#bu-verileri-kullanabilmek-için-hangi-sensörler-kullanmalıyım)
   - [İstasyon tarafından üretilen veriler hangi veri tipinde olabilir?](#i̇stasyon-tarafından-üretilen-veriler-hangi-veri-tipinde-olabilir)
-- [İndirme](#i̇çindekiler)
+- [İndirme](#nasıl-yüklenir)
   - [Nasıl yüklenir?](#nasıl-yüklenir)
   - [Bağımlılıklar](#bağımlılıklar)
   - [Yazılım ile ilgili detaylar](#yazılım-ile-ilgili-detaylar)
