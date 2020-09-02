@@ -33,7 +33,7 @@ Bu istasyon Raspberry Pi ile kullanılabilen tüm sensörlerle çalışabilir.Ay
 ## Bu verileri kullanabilmek için hangi sensörler kullanmalıyım?
 Tüm kod buradaki donanımlara göre yazılmıştır.Kodda küçük değiştirmeler yaparak kendi donanımlarınız da ekleyebilir veya mevcut donanımları muadilleri ile değiştirebilirsiniz.
 
-  **Raspberry Pi 4B**(Raspberry Pi Zero üstü versiyonlar veya Raspberry Pi Zero + ethernet modülü) **+**
+  **Raspberry Pi 4B**(Raspberry Pi Zero W ve üstü versiyonlar veya Raspberry Pi Zero + ethernet modülü) **+**
 + **DHT11 (Sıcaklık ve Nem)**
 + **5 mm LDR(Işık şiddeti)**
 + **Push Buton(Buton(lar)a basılma durumu)**
