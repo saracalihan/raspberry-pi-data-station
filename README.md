@@ -69,12 +69,12 @@ Kodlama dili olarak Python ve C/C++ kullanılmıştır.Opsiyon olarak belirtilen
 Kodun çalışabilmesi için önceden yüklü olması gerekenler.
 + **[Python](https://www.python.org/)**
 + **[pip](https://www.python.org/)**
-+ **[Python Requests](https://requests.readthedocs.io/en/master/)**
-+ **[Adafruit_Python_DHT kütüphanesi](https://github.com/adafruit/Adafruit_Python_DHT)**
++ **[Python Requests Kütüphanesi](https://requests.readthedocs.io/en/master/)**
++ **[Adafruit_Python_DHT Kütüphanesi](https://github.com/adafruit/Adafruit_Python_DHT)**
    ### ...
  
 ## Donanım Bağlantıları
 ![baglanti.png]( "Bağlantı fritzing dosyaları ve resimleri")
 
-## License
+## Lisans
 [GNU GENERAL PUBLIC LICENSE Version 3](LICENSE)
