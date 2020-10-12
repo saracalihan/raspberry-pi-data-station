@@ -6,7 +6,7 @@
   - [Ne tür verileri kullanır?](#ne-tür-verileri-kullanır)
   - [Bu verileri kullanabilmek için hangi sensörler kullanmalıyım?](#bu-verileri-kullanabilmek-için-hangi-sensörler-kullanmalıyım)
   - [İstasyon tarafından üretilen veriler hangi veri tipinde olabilir?](#i̇stasyon-tarafından-üretilen-veriler-hangi-veri-tipinde-olabilir)
-- [İndirme](#nasıl-yüklenir)
+- [Kurmak](#nasıl-yüklenir)
   - [Nasıl yüklenir?](#nasıl-yüklenir)
   - [Bağımlılıklar](#bağımlılıklar)
   - [Yazılım ile ilgili detaylar](#yazılım-ile-ilgili-detaylar)
@@ -27,7 +27,7 @@ Bu istasyon Raspberry Pi ile kullanılabilen tüm sensörlerle çalışabilir.Ay
 + **(Dahili)İstasyonun işlemci sıcaklığı**
 * **(Dahili/Opsiyon)Rastgele yahut bir örüntü ile üretilen veriler**
 + **(Dahili/Opsiyon) Görüntü işleme**
-+ **(Dahili/Opsiyon) Etraftaki Bluetooth veya Wifi bağlantı noktası sayısı**
++ **(Dahili/Opsiyon) Etraftaki Bluetooth veya Wifi bağlantı özellikleri**
 
 
 ## Bu verileri kullanabilmek için hangi sensörleri kullanmalıyım?
@@ -62,7 +62,7 @@ Tüm kod buradaki donanımlara göre yazılmıştır.Kodda küçük değiştirme
  ```
 
 ## Yazılım ile ilgili detaylar
-Kodlama dili olarak Python kullanılmıştır.İlerleyen süreçte C/C++ dili ile de aynı kod yazılacaktır.Opsiyon olarak belirtilen koşullar koda sonradan eklenecektir.
+Kodlama dili olarak Python ve C/C++ kullanılmıştır.Opsiyon olarak belirtilen koşullar koda sonradan eklenecektir.
 
 
 ## Bağımlılıklar
