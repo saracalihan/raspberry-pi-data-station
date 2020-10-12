@@ -75,3 +75,6 @@ Kodun çalışabilmesi için önceden yüklü olması gerekenler.
  
 ## Donanım Bağlantıları
 ![baglanti.png]( "Bağlantı fritzing dosyaları ve resimleri")
+
+## License
+[GNU GENERAL PUBLIC LICENSE Version 3](LICENSE)
